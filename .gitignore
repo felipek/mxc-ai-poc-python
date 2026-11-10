@@ -1,0 +1,7 @@
+.cache/
+.local/
+reports/
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store

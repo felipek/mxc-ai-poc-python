@@ -1,0 +1,7 @@
+{
+  "repository": "https://github.com/microsoft/mxc.git",
+  "revision": "03efb6167cf76e908a158dd8f7e181f68a6710ad",
+  "contract_version": "1.0.0",
+  "cargo_package": "mxc_darwin",
+  "executable": "mxc-exec-mac"
+}
